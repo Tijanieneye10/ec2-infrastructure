@@ -1,0 +1,1 @@
+variable is_default_vpc {}
